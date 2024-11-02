@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background: #181818;
+    color: #ef1111;
+    font-family: 'DEAD FATALY', sans-serif;               
+    margin: 0;
+    text-align: center;
+}
